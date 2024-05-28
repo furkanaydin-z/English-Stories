@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background1">#60A4BF</color>
+    <color name="backgroundDark">#023059</color>
+    <color name="ıtemsColor">#BF8049</color>
+    <color name="textinput">#D7FFFFFF</color>
+    <color name="leveltext">#D7BC0E0E</color>
+    <color name="detailback">#29A5F2</color>
+    <color name="trytext">#F2BE22</color>
+
+    <color name="orangepeel">#FF7800</color>
+    <color name="jetblack">#A2DCF2</color>
+    <color name="jetblack2">#0A0B0D</color>
+
+    <color name="purple_200">#021C41</color>
+    <color name="yellow_700">#2196F3</color>
+
+    <color name="status">#2C4A73</color>
+</resources>

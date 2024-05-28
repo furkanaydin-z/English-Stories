@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732174742389",
+    "project_id": "english-book-9e4e1",
+    "storage_bucket": "english-book-9e4e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732174742389:android:a2eb6493b2901b5feb593c",
+        "android_client_info": {
+          "package_name": "com.example.englishbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG_8aEgJjsS95wy416ZaTHFaGBbFYvgBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

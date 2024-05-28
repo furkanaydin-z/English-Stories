@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">English Book</string>
+    <string name="kullaniciadi">Enter your username</string>
+    <string name="password">Enter your password</string>
+    <string name="log">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Enter your Gmail</string>
+    <string name="ara">Search</string>
+    <string name="emai">Enter your Gmail</string>
+
+    <string name="mars">Tourism Takes Off with Inaugural Flight to Mars</string>
+    <string name="marstext">Space tourism has taken a giant leap forward with the inaugural flight of a commercial spacecraft to Mars. The historic journey marks the first time that civilians have ventured beyond Earth,s orbit for recreational purposes. The spacecraft, operated by a private space company, is equipped with state-of-the-art amenities and accommodations for passengers. The journey to Mars is expected to take several months, during which passengers will experience zero-gravity and breathtaking views of the cosmos. Space tourism has long been a dream of adventurers and visionaries, and the successful launch represents a major milestone in human space exploration. The inaugural flight has captured the world imagination, with people eagerly following the progress of the mission. While space tourism remains prohibitively expensive for most, proponents believe that advances in technology and competition among space companies will drive down costs and make it accessible to more people in the future.</string>
+
+    <string name="otonom">Autonomous Vehicles Revolutionize Transportation Industry</string>
+    <string name="otonomtext">The transportation industry is undergoing a revolution with the rise of autonomous vehicles (AVs). AVs, also known as self-driving cars, are equipped with advanced sensors and artificial intelligence systems that enable them to navigate roads without human intervention. Tech companies and automakers are racing to develop and deploy AV technology on a mass scale. Early trials and pilot programs have shown promising results, with AVs demonstrating the ability to reduce accidents and congestion while improving mobility and efficiency. The potential benefits of AVs are vast, ranging from increased safety and accessibility to reduced emissions and travel costs. However, concerns remain about the safety and regulatory challenges associated with AVs. Critics argue that AVs may displace jobs and exacerbate inequality if not implemented carefully. Policymakers are grappling with how to regulate AVs and ensure their safe integration into existing transportation systems. Despite these challenges, the era of autonomous vehicles promises to reshape the way we move and live.</string>
+
+    <string name="disaster">Artificial Intelligence Predicts Natural Disasters</string>
+    <string name="disastext">Artificial intelligence is being used to predict natural disasters with unprecedented accuracy, saving lives and mitigating damage. AI algorithms analyze vast amounts of data, including satellite imagery, weather patterns, and seismic activity. They can identify warning signs of impending disasters, such as hurricanes, earthquakes, and wildfires. Governments and organizations around the world are adopting AI-powered systems to improve disaster preparedness and response. Early warning systems can alert authorities and communities to evacuate or take preventive measures. The use of AI in disaster prediction has already proven successful in preventing loss of life and property damage. However, challenges remain, including data accuracy and algorithmic bias. Scientists are working to refine AI models and improve their predictive capabilities. The integration of AI into disaster management strategies is a testament to the power of technology to address global challenges.</string>
+
+    <string name="uncover">Deep-Sea Expedition Uncovers New Species</string>
+    <string name="uncovertext">A deep-sea expedition has uncovered a treasure trove of new species in the uncharted depths of the ocean. Scientists aboard a research vessel discovered bizarre creatures never seen before. Among the finds are bioluminescent jellyfish, giant squid, and exotic fish with striking colors and patterns. The expedition was part of a global effort to explore the world,s oceans and document its biodiversity. Researchers used state-of-the-art technology, including submersibles and underwater drones, to navigate the depths. The discoveries have shed light on the mysteries of the deep sea and its inhabitants. Scientists are excited about the potential implications for conservation and medicine. They hope to learn more about the newly discovered species and their roles in the marine ecosystem. The deep-sea expedition has reignited interest in ocean exploration and inspired new generations of scientists.</string>
+
+    <string name="quantum">Breakthrough in Quantum Computing Promises Revolution</string>
+    <string name="quantumtext">Scientists have achieved a major breakthrough in quantum computing that could revolutionize the way we process information. Quantum computers harness the power of quantum mechanics to perform complex calculations at unprecedented speeds. Researchers have developed a new quantum algorithm that solves previously unsolvable problems. The algorithm has the potential to accelerate advancements in fields such as cryptography, drug discovery, and artificial intelligence. Tech giants are racing to develop practical quantum computers for commercial use. The breakthrough has sparked excitement among scientists and industry leaders. They believe quantum computing will unlock new possibilities and reshape the future of technology. However, challenges remain, including scalability and error correction. Despite these hurdles, the era of quantum computing is on the horizon, promising to usher in a new era of innovation and discovery.</string>
+
+    <string name="robot">Robot Revolution in the Workplace</string>
+    <string name="robotext">Robots are increasingly taking over jobs in various industries, leading to what some are calling a "robot revolution" in the workplace. Advances in robotics and artificial intelligence have made robots more capable than ever before. They can perform tasks ranging from manufacturing and assembly to customer service and healthcare. Companies are investing heavily in automation to increase efficiency and reduce costs. While robots offer many benefits, they also raise concerns about job displacement and the future of work. Some experts predict that millions of jobs will be lost to automation in the coming years. Others argue that robots will create new opportunities and industries. The rise of robots is reshaping the labor market and sparking debate about the role of technology in society. Policymakers are grappling with how to regulate and adapt to the changing workforce landscape.</string>
+
+    <string name="travel">Time-Traveling Tourists Found in Historical Photos</string>
+    <string name="traveltext">A group of tourists claiming to be time travelers has been discovered in historical photographs from the past. The tourists appear in pictures taken decades or even centuries ago, wearing modern clothing and accessories. Some are seen posing in front of famous landmarks, while others mingle with historical figures. The authenticity of the photographs has been verified by experts, leaving many puzzled by the phenomenon. The time travelers insist that they are from the future and have traveled back in time for sightseeing. They refuse to disclose how they achieved time travel or why they chose to visit specific time periods. Conspiracy theories abound, with some speculating that the time travelers are part of a government experiment or alternate reality. Historians are studying the photographs for clues about the time travelers origins and motivations. The discovery has reignited fascination with the concept of time travel and its implications for the past, present, and future.</string>
+
+    <string name="key">Ancient Artifact Holds Key to Time Travel</string>
+    <string name="keytext">Archaeologists made a groundbreaking discovery when they unearthed an ancient artifact believed to hold the key to time travel. The artifact was found buried in a remote cave deep in the mountains. It was covered in mysterious symbols and inscriptions. Experts studied the artifact and determined that it was a time-travel device used by an ancient civilization. The device appeared to be activated by a series of intricate rituals and incantations. Scientists were skeptical at first but conducted experiments to test the artifact,s capabilities. To their amazement, they were able to send small objects forward and backward in time. The implications of the discovery were profound. It raised questions about the nature of time and the possibility of altering the past or future. Scientists and historians debated the ethical and practical implications of time travel. The ancient artifact remained a source of fascination and intrigue for researchers around the world.</string>
+
+    <string name="universe"> Parallel Universe Discovered Beyond Solar System</string>
+    <string name="universetext">Astronomers made a startling discovery when they detected signs of a parallel universe beyond our solar system. The discovery was made using advanced telescopes and satellite imagery. Scientists observed anomalies in the cosmic background radiation, suggesting the presence of a parallel universe. The parallel universe appeared to mirror our own but with subtle differences. Researchers speculated about the existence of alternate versions of Earth and the possibility of parallel dimensions. The discovery challenged conventional theories about the universe and sparked a wave of excitement among astronomers. They hoped to learn more about the mysterious parallel universe and its inhabitants. The discovery raised philosophical questions about the nature of reality and the existence of other dimensions. Scientists planned to conduct further research to unravel the secrets of the parallel universe.</string>
+
+    <string name="ufo">Alien Encounter at Remote Research Station</string>
+    <string name="ufotext">Scientists at a remote research station claim to have had a close encounter with extraterrestrial beings. The research station was located in a desolate, uninhabited region. Scientists were conducting experiments when they spotted strange lights in the sky. The lights descended towards the research station, revealing a UFO hovering above. The scientists watched in awe as aliens emerged from the UFO. The aliens appeared friendly and curious, communicating with the scientists through gestures and telepathy. They examined the research equipment and seemed intrigued by human technology. The encounter lasted for several hours before the aliens returned to their UFO and disappeared into the night sky. The scientists were left with more questions than answers. They wondered about the aliens origins and intentions. The encounter sparked a debate among scientists and the public about the existence of extraterrestrial life.</string>
+
+    <string name="sinkhole">Giant Sinkhole Swallows City Street</string>
+    <string name="sinkholetext">A massive sinkhole opened up in the middle of a city street, swallowing everything in its path. The sinkhole appeared suddenly, without warning. Cars and buildings were swallowed whole, disappearing into the depths below. Emergency crews rushed to the scene, but it was too late to save anything. The sinkhole grew larger by the minute, threatening to engulf more of the city. Residents were evacuated as a precaution. Geologists were baffled by the sudden appearance of the sinkhole. They suspected it was caused by underground erosion or a collapsed sewer line. Engineers worked tirelessly to fill the sinkhole and repair the damage. The incident left the city in shock and disbelief. It was a reminder of the unpredictable forces of nature.</string>
+
+    <string name="underwater">Lost City Found Underwater</string>
+    <string name="underwatertext">Archaeologists have made a groundbreaking discovery underwater. They found the remains of an ancient city buried beneath the ocean floor. The city is believed to be thousands of years old. It is remarkably well-preserved, with intact buildings and artifacts. Scientists are excited about the potential insights it could provide into ancient civilizations. They suspect the city was once a thriving hub of trade and culture. Divers are exploring the underwater ruins, uncovering more secrets with each dive. The discovery has sparked international interest and speculation. People around the world are fascinated by the lost city and its mysteries.</string>
+
+    <string name="house">Haunted House in the Neighborhood</string>
+    <string name="housetext">A spooky old house has been causing quite a stir in the neighborhood. Locals claim to have heard strange noises coming from the house at night. Some say they have seen ghostly figures in the windows. The house has a long history of paranormal activity. Legend has it that it is haunted by the ghost of its former owner. Despite warnings, a group of brave teenagers decided to explore the house. They brought cameras and flashlights to document their adventure. What they discovered inside the house remains a mystery. The teenagers claim to have encountered strange phenomena and unexplained occurrences. They believe the house is indeed haunted.</string>
+
+    <string name="sky">Mysterious Lights in the Sky</string>
+    <string name="skytext">In a small town, people reported seeing mysterious lights in the sky last night. The lights appeared suddenly and moved in strange patterns. Witnesses described them as glowing orbs of different colors. Some thought it was a UFO sighting. The local authorities received numerous calls about the phenomenon. Scientists are investigating the cause of the lights. They suspect it could be a natural phenomenon or a man-made event. The townspeople are curious and excited about the mysterious lights. They gather every night to watch the sky, hoping to see them again.</string>
+
+    <string name="bear">Lost Teddy Bear</string>
+    <string name="beartext">Emily went to the park with her family. She brought her favorite teddy bear, Teddy. While playing, Emily accidentally left Teddy on a bench. She didnt realize it until they got home. Emily felt sad and scared because Teddy was lost. She told her parents about it. They decided to go back to the park and look for Teddy. Emily searched everywhere but couldnt find him. Suddenly, she remembered she left him on the bench. Emily ran back to the bench and found Teddy waiting for her. She hugged him tightly, feeling happy again. Emily promised to hold Teddy more carefully from now on. Teddy was her best friend. They went home together, walking hand in hand. Emily thanked her parents for helping her find Teddy.</string>
+
+    <string name="siir">The first poem in history</string>
+    <string name="siirtext"> The Descent of Inanna:
+        From the great above she opened her ear to the great below.
+From the great above the goddess opened her ear to the great below.
+From the great above Inanna opened her ear to the great below.
+My Lady abandoned heaven and earth to descend to the underworld.
+Inanna abandoned heaven and earth to descend to the underworld.
+She abandoned her office of holy priestess to descend to the underworld</string>
+
+    <string name="voleybol">Volleyball</string>
+    <string name="voleyboltext">Volleyball emerged in the late 19th century in the United States. It was invented by William G. Morgan in 1895 at the YMCA(Young Men Christian Association) in Massachusetts. Morgan wanted a less aggressive alternative to basketball, so he developed the idea of passing a ball over a net on both sides. Initially called "Mintonette," the game was soon renamed "volleyball." Volleyball gained rapid popularity and spread to other countries quickly. By the 1920s, volleyball had become an international sport with tournaments held among various nations. The International Volleyball Federation (FIVB) was established in 1947, further promoting the global development of volleyball. Today, volleyball is an internationally recognized sport played by millions worldwide. It is an easy and enjoyable team sport that can be played in various settings, from indoor gyms to beaches.</string>
+
+    <string name="kafka">Franz Kafka</string>
+    <string name="kafkatext">Franz Kafka was a famous writer from Prague, Czech Republic. He lived from 1883 to 1924. Kafka wrote stories and novels that are still famous today. His most famous book is called "The Metamorphosis." In this book, a man wakes up one day to find he has turned into a giant insect! Kafka stories are often strange and make you think. He wrote about loneliness, fear, and confusion. Kafkas writing style is simple but powerful. He is one of the most important writers of the 20th century. Many people still read and study his work today. Kafka s stories have been translated into many languages and are loved all over the world.</string>
+
+    <string name="iphone">iPHONE</string>
+    <string name="iphonetext">The iPhone was made by Apple in 2007. It was their first fancy phone. The iPhone changed phones because it had a big touch screen and cool stuff. A guy named Steve Jobs showed it to people first. The old iPhone had a small screen and a simple camera. It used Apple s special software. The iPhone was special because it was also an iPod and could get on the internet. People everywhere loved it because it was easy to use and looked cool. Apple kept making new iPhones with more stuff. iPhones are important because they changed how we talk, work, and find stuff online. They are one of the best things ever made in tech!</string>
+
+    <string name="lostkitten">Lost Kitten</string>
+    <string name="lostkittentext">Once upon a time, there was a little girl named Lily. She lived in a small village surrounded by green fields and tall trees. One day, while playing in her backyard, Lily found a tiny kitten hiding behind the bushes. The kitten looked scared and hungry.
+
+Lily felt sorry for the kitten and decided to take care of it. She gently picked up the kitten and brought it inside her house. Lily gave the kitten some milk and a warm blanket to sleep on. The kitten purred softly and nuzzled against Lilys hand.
+
+Lily asked her parents if she could keep the kitten. They agreed, and Lily named the kitten Whiskers. Every day, Lily and Whiskers played together and became the best of friends. Whiskers would follow Lily everywhere she went, even to school!
+
+Years passed, and Lily and Whiskers grew up together. They shared many adventures and made wonderful memories. Lily was grateful for the day she found the lost kitten in her backyard. Whiskers had brought so much joy and love into her life.
+
+And so, Lily and Whiskers lived happily ever after, surrounded by love and friendship in their cozy little village.</string>
+
+    <string name="psikoloji">History of psychology</string>
+    <string name="psikolojitext">The first steps of psychology were taken with curiosity and interest in understanding human mental processes and behaviors. People have been trying to understand each others behaviors, feelings, and thoughts for thousands of years. However, the establishment of psychology as a modern scientific discipline dates back to the 19th century.
+
+The scientific foundations of psychology were laid when Wilhelm Wundt established the first experimental psychology laboratory at Leipzig University in Germany in 1879. Wundt pioneered the study of the human mind using experimental methods, thus establishing psychology as a science.
+
+Psychology then continued to develop under different schools and perspectives. Various theoretical approaches such as structuralism, functionalism, behaviorism, psychoanalysis, and cognitive psychology were developed.
+
+The development of psychology has been supported by advancements in research methodologies and technologies. Tools such as computers, neurological imaging techniques, and statistical analysis methods have enabled more in-depth and complex psychological research.
+
+Today, psychology is a discipline that encompasses a wide range of fields and involves various research and application areas aimed at understanding, explaining, and improving human behaviors. The advancement of psychology is the result of a continuous effort and exploration process to understand oneself and the environment.</string>
+
+    <string name="enflasyon">Causes of inflation</string>
+    <string name="enflasyontext">Inflation occurs when the general price level of goods and services in an economy rises continuously. This increase in prices reduces the purchasing power of a currency, meaning that the same amount of money can buy fewer goods or services over time. Inflation can be caused by various factors, including excess demand where demand outstrips supply, leading to higher prices. Cost-push inflation happens when production costs increase, prompting businesses to pass these costs onto consumers through higher prices. Monetary factors, such as an increase in the money supply, can also contribute to inflation by increasing the amount of money circulating in the economy. Additionally, imbalances in supply and demand, fluctuations in exchange rates, and international price movements can all influence inflation levels. Government policies, such as taxation and monetary policies, can either mitigate or exacerbate inflationary pressures. Furthermore, expectations of future price increases by consumers and businesses can drive inflation as they adjust their behavior accordingly. Natural disasters or unforeseen events can disrupt supply chains or damage infrastructure, leading to price increases for certain goods or services. Finally, increases in labor costs, such as wages and salaries, can also contribute to inflationary pressures by raising production costs for businesses.</string>
+
+    <string name="kibrit">Are matches harmful?</string>
+    <string name="kibrittext">Matches contain flammable chemicals, so they should be handled with care during use. Inhaling the smoke or igniting flammable materials, it is known that matches can be harmful to human health. Additionally, when used incorrectly or stored unsafely, matches can increase the risk of fire. Therefore, it is important to use and store matches safely. However, when used correctly, matches are not expected to be harmful. When we were kids, we used to light matches and inhale the smoke, pretending to smoke like cigarettes. those were the good old days.</string>
+
+    <string name="spider">Do we really swallow spiders while sleeping?</string>
+    <string name="spidertext">People often mistakenly believe the myth that ,humans swallow an average of 7 spiders per year while sleeping,. However, this claim is entirely false and lacks any scientific basis. The idea likely originated as an urban legend or as a way to illustrate how misinformation spreads rapidly. In reality, the likelihood of swallowing spiders while asleep is extremely low. Our bodies have natural reflexes, even during sleep, to prevent foreign objects from entering our mouths. Additionally, spiders are not inclined to crawl into the mouths of humans. This myth serves as an example of how easily misconceptions can become ingrained in popular belief, despite lacking any factual evidence. Therefore, individuals should not be concerned about inadvertently swallowing spiders while sleeping, as it is purely a myth</string>
+
+    <string name="avocado">What is Avocado </string>
+    <string name="avocadotext">Avocado is a very useful fruit. It has many benefits for health. Firstly, it is rich in healthy fats, especially monounsaturated fats, which are good for the heart. Also, it contains important vitamins and minerals like potassium, vitamin C, vitamin K, folate, and vitamin E. Avocado is high in fiber, which helps digestion and makes you feel full. It also contains antioxidants that protect cells from damage. Avocado can help control weight because it makes you feel full and reduces cravings for unhealthy snacks. Moreover, it is good for the skin and hair because it contains healthy fats and nutrients. Overall, avocado is a healthy food and can be part of a balanced diet.Calories: 160, Fat: 15g, Saturated Fat: 2g, Trans Fat: 0g, Cholesterol: 0mg, Sodium: 10mg, Carbohydrates: 9g, Dietary Fiber: 7g, Sugars: 0.7g, Protein: 2g</string>
+
+    <string name="dostoyevski">Notes from Underground</string>
+    <string name="dostoyevskitext">I am a sick man. I am a spiteful man. I am an unattractive man. I believe my liver is diseased. However, I know nothing at all about my disease, and do not know for certain what ails me. I dont consult a doctor for it, and never have, though I have a respect for medicine and doctors. Besides, I am extremely superstitious, sufficiently so to respect medicine, anyway (I am well-educated enough not to be superstitious, but I am superstitious). No, I refuse to consult a doctor from spite. That you probably will not understand. Well, I understand it, though.</string>
+
+    <string name="madagaskar">Madagascar Remember</string>
+    <string name="madagaskartext">Madagascar is a large island located in the Indian Ocean, known for its unique natural life. It is home to many animal and plant species that cant be found anywhere else in the world. One of its most iconic animals is the lemur, which is only found on this island. The island has a rich diversity of plants as well, with about 12,000 species, 80% of which are unique to
+        Madagascar. Masoala Rainforest, the second largest protected
+        rainforest in the world, is located here to preserve its unique
+        biological diversity. Madagascar also boasts diverse geographical features, ranging from tropical rainforests to dry savannas and mountainous areas to sandy beaches. The first inhabitants of Madagascar migrated from
+        Southeast Asia around 3500 years ago, making the Malagasy people an ethnic group of Southeast Asian origin.</string>
+
+    <string name="dualipa">Dua Lipa early life and career</string>
+    <string name="dualipatr">"Dua Lipa, 1992'de Bosna Savaşı'nın başlangıcında Kosova'dan kaçan Anesa ve Dukagjin Lipa çiftinin çocuğu olarak Londra'da doğdu. Dua Lipa, kardeşlerinin en büyüğüdür; kendisinden küçük bir kız kardeşi, Rina, ve bir erkek kardeşi, Gjin, vardır. Aile, Lipa 11 yaşındayken Kosova'ya geri döndü, ancak o 15 yaşında Londra'ya tek başına taşındı. Orada saygın bir okul olan Sylvia Young Tiyatro Okulu'na gitti ve müzik kariyerine yönelmeye başladı.</string>
+    <string name="dualipatext">Dua Lipa was born in London to parents Anesa and Dukagjin Lipa, who had fled Kosovo in 1992 at the start of the Bosnian War. Dua Lipa is the eldest of their children; she has a younger sister, Rina, and a younger brother, Gjin. The family returned to Kosovo when Lipa was 11 years old, but she moved back to London on her own at age 15. She attended the prestigious Sylvia Young Theatre School there and began pursuing a career in music.
+
+In between waiting tables and working as a model, Lipa posted original songs and covers to YouTube and the music streaming service SoundCloud. She signed with an agent in 2013 and the following year signed a record deal with Warner Brothers. Lipa’s music career gained traction in Europe with 2015 singles such as “New Love” and “Be the One.”</string>
+
+    <string name="ukrayna">Ukraine needs more soldiers</string>
+    <string name="ukraynatext">Ukraine’s parliament has approved a new law that aims to facilitate the recruitment of new soldiers.
+
+Under this law, all men aged between 18 and 60 are required to carry documents confirming their registration with the military. Additionally, the law offers incentives such as cash bonuses and financial assistance for housing or vehicles to soldiers. The government emphasized the urgent need for new troops because there may be a shortage of personnel in certain areas.
+
+However, serving troops received disappointing news. A clause that specifies time limits on their service was removed from the law. This is particularly upsetting for soldiers engaged in combat since the beginning of the conflict. The decision not to include provisions for demobilization after a specified period has left many soldiers feeling uncertain about their future.</string>
+
+    <string name="genetictest">Genetic Tests</string>
+    <string name="genetictext">Every person has a genetic code. A code is a list of letters. The genetic code is inside your body. It tells your body and brain how to grow.
+
+Every genetic code has three billion letters. They are in a specific order. Sometimes, the order of the letters changes. This change is called a variation.
+
+Scientists study these variations. People in one family can have similar variations. This situation tells us if someone is our relative.
+
+Genetic test companies read the genetic code. They do it for different reasons. For example, an adopted child wants to find his or her parents. Sometimes, parents want to know if their baby will be healthy. Also, a person can learn if they will have a disease. For these reasons, genetic tests change people’s lives.</string>
+
+    <string name="eats">A man wants to eat every animal on Earth</string>
+    <string name="eatstext">EIn the 1830s, William Buckland, a prominent British scientist, hosted unique dinner parties where he served exotic dishes like a mouse on toast.
+
+Despite his eccentricities, Buckland made significant contributions to geology and paleontology. He became the first person to study geology at the University of Oxford. He challenged traditional beliefs, including the biblical account of the Great Flood, by examining fossils. Buckland’s discoveries, such as the Megalosaurus, helped advance the understanding of dinosaurs and evolution. His wife Mary also played a crucial role in their scientific endeavors.
+
+Although Buckland’s dream to eat every animal on Earth remained unfulfilled, his unconventional approach to science demonstrated that scientific exploration could be both rigorous and enjoyable.</string>
+
+    <string name="microapartment">Tokyo Micro Apartment</string>
+    <string name="microapartmentext">Micro-apartments are places that are very small, have very few amenities, very little space, and not many of the home comforts that you’d associate with living in a bigger apartment and certainly in a house.
+
+However, they’re becoming increasingly popular in the Japanese capital, particularly among younger people who’re just starting in the workplace and can’t afford rents for ordinary places, or they may be moving into Tokyo from out of town and want a cheap place to stay.
+
+Each micro-apartment measures just nine square meters, which is under half the size of a typical studio apartment in Tokyo. The benefit’s that there’s zero deposit and no ‘key money’, a nonrefundable gift to the landlord. Monthly rents range from 380 to 610 dollars, depending on where in Tokyo you are.</string>
+
+    <string name="chatgpt">Can ChatGPT take away peoples jobs</string>
+    <string name="chatgpttext">For many years, people worried that one day, robots could take their jobs. Now, it seems that it may start happening.
+
+ChatGPT is an AI chatbot, which is the fastest-growing app. It had 100 million active users only two months after launching. Chatbots are very creative, and they can do things, which we thought only people could do. Chatbots can work with information, do research, and write reports or commands. Some companies already realize this, and they start using chatbots. Chatbots work very fast and they don’t need a break.
+
+Some UK law companies already use chatbots to write legal letters or come up with arguments in legal cases, which means less work for the staff.</string>
+
+    <string name="skincancer">Skin Cancer Vaccine</string>
+    <string name="skincancertext">In the UK, a trial for the first personalized vaccine against deadly melanoma is ongoing.
+
+This mRNA vaccine helps the immune system target and eliminate cancerous melanoma cells. What makes this vaccine unique is its personalized nature. It is tailored to each patient and matches their tumor’s genetic signature. The vaccine stimulates the body to produce proteins and antibodies that attack specific cancer cell markers and offers hope for reducing the risk of cancer recurrence.
+
+Similar trials are underway in Australia and other countries.
+
+The vaccine utilizes mRNA technology like some COVID vaccines. If the trial is successful, it could potentially extend to treating other types of cancers such as lung, bladder, and kidney cancers.</string>
+
+    <string name="tiktok">Tiktok Algorithm</string>
+    <string name="tiktoktext">TikTok has a special thing called a recommendation system. It suggests videos based on what you like. This makes TikTok different.
+TikTok is popular all over the world. It shows videos which people like. TikTok learns fast from short videos about what you like. TikTok also helps you find new things you may like. This special thing starts with Douyin, a Chinese app. But these days, TikTok knows much better what users like to watch.
+ByteDance owns TikTok. It is a Chinese company. China makes tricky rules about TikTok. Now, US officials ask ByteDance to sell its assets. If ByteDance does not do it, it may end in the US.</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
